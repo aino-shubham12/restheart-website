@@ -1,9 +1,9 @@
 ---
-layout: page
 title: What RESTHeart can do
-permalink: /features
+permalink: "/features"
+layout: page
 ---
- 
+
 <div class="row mt-4">
     <article class="mt-4 mt-lg-0 col-lg-4 zoom">
         <div class="card newsText text-justified h-100 w-100">

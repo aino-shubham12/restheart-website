@@ -1,7 +1,7 @@
 ---
-layout: page-notitle
 title: Get Started
-permalink: /get
+permalink: "/get"
+layout: page-notitle
 ---
 
 <div class="form-row text-center mt-4">
