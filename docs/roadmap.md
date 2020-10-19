@@ -53,7 +53,9 @@ The new service `restheart-graphql` will be added to RESTHeart. This service exp
 The special collection /_gqlapps holds the GraphQL App Definitions. A GraphQL Application Definition document defines:
 
 * application name, description and uri (the API will be available at /graphql/<uri>)
-* the GraphQL schema 
+
+* the GraphQL schema
+
 * mappings (information that allows to map GraphQL types and fields to MongoDB queries).
 
 As soon as the GraphQL App Definition document gets created, the GraphQL API is automatically generated and available in RESTHeart.
